@@ -1,0 +1,73 @@
+Here's your analysis:
+
+  0x003A:  The
+  0x004C:  soul
+  0x0005:  is
+  0x00C4:  dyed
+  0x00B9:  the
+  0x005A:  color
+  0x0035:  of
+  0x0089:  its
+  0x0040:  thoughts.
+  0x0011:  Think
+  0x0026:  only
+  0x0098:  on
+  0x002D:  those
+  0x008F:  things
+  0x0062:  that
+  0x00B3:  are
+  0x00D0:  in
+  0x009D:  line
+  0x006F:  with
+  0x0053:  your
+  0x00D5:  principles
+  0x0069:  and
+  0x0076:  can
+  0x007C:  bear
+  0x0083:  the
+  0x000A:  full
+  0x00A4:  light
+  0x00CB:  of
+  0x00AC:  day.
+  0x00BF:  --
+  0x0019:  Heraclitus
+
+Now, we'll compare it to the reference solution...
+Here's the correct analysis:
+
+  0x003A:  The
+  0x004C:  soul
+  0x0005:  is
+  0x00C4:  dyed
+  0x00B9:  the
+  0x005A:  color
+  0x0035:  of
+  0x0089:  its
+  0x0040:  thoughts.
+  0x0011:  Think
+  0x0026:  only
+  0x0098:  on
+  0x002D:  those
+  0x008F:  things
+  0x0062:  that
+  0x00B3:  are
+  0x00D0:  in
+  0x009D:  line
+  0x006F:  with
+  0x0053:  your
+  0x00D5:  principles
+  0x0069:  and
+  0x0076:  can
+  0x007C:  bear
+  0x0083:  the
+  0x000A:  full
+  0x00A4:  light
+  0x00CB:  of
+  0x00AC:  day.
+  0x00BF:  --
+  0x0019:  Heraclitus
+
+Now, we'll compare your analysis to the correct one...
+Good!  Everything looks OK.
+
+Score: 1000 / 1000

@@ -1,0 +1,57 @@
+Here's your analysis:
+
+  0x00A8:  He
+  0x008A:  is
+  0x0060:  useless
+  0x008F:  on
+  0x0049:  top
+  0x002B:  of
+  0x0030:  the
+  0x0017:  ground;
+  0x0021:  he
+  0x0094:  ought
+  0x0026:  to
+  0x0036:  be
+  0x003B:  under
+  0x0043:  it,
+  0x009C:  inspiring
+  0x006A:  the
+  0x004F:  cabbages.
+  0x005B:  --
+  0x0070:  the
+  0x0076:  Calendar
+  0x0005:  of
+  0x000A:  Puddinhead
+  0x0081:  Wilson
+
+Now, we'll compare it to the reference solution...
+Here's the correct analysis:
+
+  0x00A8:  He
+  0x008A:  is
+  0x0060:  useless
+  0x008F:  on
+  0x0049:  top
+  0x002B:  of
+  0x0030:  the
+  0x0017:  ground;
+  0x0021:  he
+  0x0094:  ought
+  0x0026:  to
+  0x0036:  be
+  0x003B:  under
+  0x0043:  it,
+  0x009C:  inspiring
+  0x006A:  the
+  0x004F:  cabbages.
+  0x005B:  --
+  0x0070:  the
+  0x0076:  Calendar
+  0x0005:  of
+  0x000A:  Puddinhead
+  0x0081:  Wilson
+
+Now, we'll compare your analysis to the correct one...
+Good!  Everything looks OK.
+
+Score: 1000 / 1000
